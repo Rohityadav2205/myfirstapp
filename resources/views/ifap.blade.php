@@ -1131,6 +1131,7 @@
             </div>
         </div>
     </section> -->
+   
 
     <!--corousel testing section-->
     <section class="home-section">
@@ -1159,10 +1160,10 @@
                     </div>
                 </div>
                 <!-- testimonials corousel -->
-                <div style="padding:70px;border-style:ridge;border-width:20px;" class="carousel-item">
+                <div  class="carousel-item">
                    
                     
-    <section class="testimonial">
+    <section class="testimonial"style="background-color: #e7feff;">
         <div class="container">
             <div class="row">
                 <div class="heading text-center">
@@ -1209,10 +1210,10 @@
                     
                 </div>
                 <br>
-                <div style="padding:50px;border-style:ridge;border-width:10px; backgro" class="carousel-item">
+                <div  class="carousel-item">
                    
                     
-                   <section class="testimonial">
+                   <section class="testimonial"style="background-color: #3388FF">
                        <div class="container">
                            <div class="row">
                                <div class="heading text-center">
@@ -1259,10 +1260,10 @@
                                <br>
 
                
-            <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+            <div  class="carousel-item">
                    
                     
-                   <section class="testimonial">
+                   <section class="testimonial"style="background-color: #55AAFF">
                        <div class="container">
                            <div class="row">
                                <div class="heading text-center">
@@ -1301,10 +1302,10 @@
                    </section>
             
                                </div>
-                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                               <div  class="carousel-item">
                    
                     
-                   <section class="testimonial">
+                   <section class="testimonial"style="background-color: #99badd">
                        <div class="container">
                            <div class="row">
                                <div class="heading text-center">
@@ -1346,10 +1347,10 @@
                    </section>
             
                                </div>
-                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                               <div  class="carousel-item">
                    
                     
-                   <section class="testimonial">
+                   <section class="testimonial"style="background-color: #417dc1">
                        <div class="container">
                            <div class="row">
                                <div class="heading text-center">
@@ -1388,10 +1389,10 @@
                    </section>
             
                                </div>
-                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                               <div class="carousel-item">
                    
                     
-                   <section class="testimonial">
+                   <section class="testimonial"style="background-color: #b0c4de">
                        <div class="container">
                            <div class="row">
                                <div class="heading text-center">
@@ -1430,10 +1431,10 @@
                    </section>
             
                                </div>
-                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                               <div  class="carousel-item">
                    
                     
-                   <section class="testimonial">
+                   <section class="testimonial"style="background-color: #add8e6">
                        <div class="container">
                            <div class="row">
                                <div class="heading text-center">
@@ -1473,18 +1474,25 @@
             
                                </div>
                                
-            <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                            
+            <!-- <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item"> -->
+            <div  class="carousel-item">
+
                    
                     
-                   <section class="testimonial">
+                   <section class="testimonial"style="background-color: #abcdef;padding:50px;border-style:ridge;border-width:10px;">
                        <div class="container">
-                           <div class="row">
-                               <div class="heading text-center">
+                           <!-- <div class="row" style="background-color: #33475b"> -->
+                           <div class="row" >
+
+                               <div class="heading text-center"  >
                                    <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
                                    <h2>What Students Says About Us</h2>
                                </div>
                
-                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                               <!-- <div class="col-lg-12 col-md-12 col-12 mb-2"> -->
+                               <div class="col-lg-2 col-md-12 col-12 mb-2"></div>
+                               <div class="col-lg-8 col-md-12 col-12 mb-2" style="background-color:#1d2951">
                     <div class="test-box">
                         <div class="row">
                             <div class="col-2 col-md-12">
@@ -1502,7 +1510,7 @@
 
                                 </div>
                             </div>
-                        </div>
+                        </div class="" style="background-color: #5d8aa8">
                         <p class="comment">
                         “Ifap institute बहुत अच्छा institute है हमे यहा बहुत कुछ सीखने को मिला । जब से यहां आए तब से कुछ ना 
                             कुछ हर दिन सीखने को मिला । यहां के सभी अध्यापक अच्छे है । और यहां के सभी अध्यापक सभी छात्रों को मन से पढ़ाते है।
@@ -1528,6 +1536,7 @@
             </button>
         </div>
     </section>
+    
 
     
 
@@ -1585,12 +1594,12 @@
                              we are working since 2003 and is now today we are one of the emerging educational
                               institution of Indiawhich provides training in Financial Accounting in India.
                             </p>
-                            <div class="heading">
+                            <!-- <div class="heading">
                                 <p>Project</p>
-                            </div>
+                            </div> -->
                             <div class="project-list">
                                 <ul>
-                                    <li> IT Championship 2023</li>
+                                    <!-- <li> IT Championship 2023</li> -->
                                     <li> Tally Championship 2023</li>
                                 </ul>
                             </div>
