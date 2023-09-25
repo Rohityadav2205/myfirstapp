@@ -842,7 +842,7 @@
     </section>
 
     <!-- Testimonial section -->
-    <section class="testimonial">
+    <!-- <section class="testimonial">
         <div class="container">
             <div class="row">
                 <div class="heading text-center">
@@ -938,7 +938,6 @@
                         <div class="row">
                             <div class="col-2 col-md-12">
                                 <div class="img">
-                                    <!-- <img src="assets/img/Image/testimonial-1.png" alt="" class="img-fluid"> -->
                                     <img src="assets/img/Image/Divyanshi.png" alt="" class="img-fluid">
 
                                 </div>
@@ -1131,14 +1130,14 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!--corousel testing section-->
     <section class="home-section">
-        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleAutoplaying1" class="carousel slide" data-bs-ride="carousel">
             
-            <div class="carousel-inner">
-                <div class="carousel-item active">
+            <div  class="carousel-inner">
+                <div  class="carousel-item active">
                     <img src="assets/img/Banner/Banner 1.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption home-section-carousel">
                         <div class="heading-text text-start">
@@ -1159,58 +1158,371 @@
                         </div>
                     </div>
                 </div>
-                <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
-                    <img src="assets/img/Banner/1.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption  home-section-carousel">
-                            <div class="heading-text text-start">
-                                <h1>MEET NOW FRIENDS</h1>
-                                <h3>
-                                    <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
-                                        <span class="wrap"></span>
-                                    </h3>
-                                </h3>
-                                <p>
-                                    Nothing is better than having friends study together. Each student can learn 
-                                    from others through by teamwork building and playing interesting games. 
-                                    Following Instruction of experts, you friends will gain best scores.
-                                </p>
-        
-                                <div class="home-btn butn home-btn1">
-                                    <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
-                                    <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
+                <!-- testimonials corousel -->
+                <div style="padding:70px;border-style:ridge;border-width:20px;" class="carousel-item">
+                   
+                    
+    <section class="testimonial">
+        <div class="container">
+            <div class="row">
+                <div class="heading text-center">
+                    <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                    <h2>What Students Says About Us</h2>
+                </div>
+
+                
+                <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                    <img src="assets/img/Image/Tanu Vishwakarma pic.jpg" alt="" class="img-fluid">
                                 </div>
                             </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="assets/img/Banner/Banner 3.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption  home-section-carousel">
-                        <div class="heading-text text-start">
-                            <h3>WHAT IS BEST FOR YOUR</h3>
-                            <h1>
-                                <h1 href="" class="typewrite" data-period="2000" data-type='[ "LEARNING AT CERTIPORT ACADEMY" ]'>
-                                    <span class="wrap"></span>
-                                </h1>
-                            </h1>
-                            <p>
-                                Certiport Academy understands students- helps then show their advantages most 
-                                effective by making their future be unique to attract potential student, keep long-term 
-                                students who will become greatest marketers for business.
-                            </p>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">Tanu Vishwakarma </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2022-2023</p>
 
-                            <div class="home-btn butn home-btn1">
-                                <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
-                                <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
+                                </div>
                             </div>
                         </div>
+                        <p class="comment">
+                            “ Ifap institute is well organized institution for academic purpose, n 
+                                it is the best place for those who wanted to learn many skills at one place, 
+                                here teachers are not just give us knowledge but they given life lessons too, 
+                                and i feel very fortunate i get took admission here....thanks to "Ashish sir"& "Dheeraj Sir" too....🙏
+                          .”
+                        </p>
                     </div>
                 </div>
+
+               
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        </div>
+    </section>
+
+                    
+                    
+                </div>
+                <br>
+                <div style="padding:50px;border-style:ridge;border-width:10px; backgro" class="carousel-item">
+                   
+                    
+                   <section class="testimonial">
+                       <div class="container">
+                           <div class="row">
+                               <div class="heading text-center">
+                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                                   <h2>What Students Says About Us</h2>
+                               </div>
+               
+                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                <img src="assets/img/Image/AMISHA PIC 22.jpg" alt="" class="img-fluid">                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">Amisa </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2020-2022</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                            
+                            “ IFAP INSTITUTE is a very good institute. We have got to learn a lot here. every day we got to learn something new or 
+                            the other since we come here. IFAP INSTITUTE is one of the best institutes for Tally.”
+                       
+                          
+                        </p>
+                    </div>
+                </div>
+                              
+                           </div>
+                       </div>
+                   </section>
+               
+                                   
+                                  
+                               </div>
+                               
+                               <br>
+
+               
+            <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                   
+                    
+                   <section class="testimonial">
+                       <div class="container">
+                           <div class="row">
+                               <div class="heading text-center">
+                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                                   <h2>What Students Says About Us</h2>
+                               </div>
+               
+                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                <img src="assets/img/Image/achal singh pic.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">Anchal Singh </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2021-2022</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                        “It was good experience with trainer and teaching skill good and interact and answering every questions asked by student. 
+                            Good knowledge and updated with his reliable courses. And Ashish sir are very friendly 😊😊🤗🤗”
+                       
+                        </p>
+                    </div>
+                </div>                      
+                           </div>
+                       </div>
+                   </section>
+            
+                               </div>
+                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                   
+                    
+                   <section class="testimonial">
+                       <div class="container">
+                           <div class="row">
+                               <div class="heading text-center">
+                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                                   <h2>What Students Says About Us</h2>
+                               </div>
+               
+                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                <img src="assets/img/Image/veera jain pic 2.jpg" alt="" class="img-fluid">                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">Veera Jain </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2020-2022</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                        “Tally Academy is the best education institute in Varanasi for computer courses,
+                             we got best education and felt better future planning while doing TALLY course from here.
+                              And all the students who are studied here, they are leading their future. 'IFAP Institute' 
+                              is always active in improving Study skill, followed by Rules & Regulations, Discipline Unity,
+                               Trust of completing the course according to time and motivating for the Job. 
+                               Special Thanks to the Honorable Director 'Ashish Sir', who struggling in making best educational institution of 'Tally Academy'.”
+                      
+                        </p>
+                    </div>
+                </div>                      
+                           </div>
+                       </div>
+                   </section>
+            
+                               </div>
+                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                   
+                    
+                   <section class="testimonial">
+                       <div class="container">
+                           <div class="row">
+                               <div class="heading text-center">
+                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                                   <h2>What Students Says About Us</h2>
+                               </div>
+               
+                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                <img src="assets/img/Image/khushi srivastava pic 1.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">khushi Srivastava </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2021-2022</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                        “Thank you for the valuable knowledge and skills I have gained during my time here
+                            The DCIA course has been a transformative experience for me, and I appreciate
+                            the institute for providing such a comprehensive program”
+                        </p>
+                    </div>
+                </div>                      
+                           </div>
+                       </div>
+                   </section>
+            
+                               </div>
+                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                   
+                    
+                   <section class="testimonial">
+                       <div class="container">
+                           <div class="row">
+                               <div class="heading text-center">
+                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                                   <h2>What Students Says About Us</h2>
+                               </div>
+               
+                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                <img src="assets/img/Image/saurabh kumar pic. - Copy.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">Saurabh Kumar </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2021-2022</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                        “Thanks to IFAP institute one of the best in Varanasi. The teacher and staff members are very helpful.
+                            Teachers are very experienced and clear all the doubts. Complete place for education in computer skills.😇 ”
+                      
+                        </p>
+                    </div>
+                </div>                      
+                           </div>
+                       </div>
+                   </section>
+            
+                               </div>
+                               <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                   
+                    
+                   <section class="testimonial">
+                       <div class="container">
+                           <div class="row">
+                               <div class="heading text-center">
+                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                                   <h2>What Students Says About Us</h2>
+                               </div>
+               
+                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                <img src="assets/img/Image/Zainab Parveen - Copy.jpeg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">Zainab Parveen </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2021-2022</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                        “ This institution is one of the best in Varanasi. The teacher and staff members are very helpful.
+                            Teachers are very experienced and clear all the doubts. Complete place for education in computer skills.😇
+                              ”
+                        </p>
+                    </div>
+                </div>                      
+                           </div>
+                       </div>
+                   </section>
+            
+                               </div>
+                               
+            <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item">
+                   
+                    
+                   <section class="testimonial">
+                       <div class="container">
+                           <div class="row">
+                               <div class="heading text-center">
+                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                                   <h2>What Students Says About Us</h2>
+                               </div>
+               
+                               <div class="col-lg-12 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                <img src="assets/img/Image/UTKARSH DAVE PIC.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">Utkarsh Dev </p>
+                                    <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2022-2023</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                        “Ifap institute बहुत अच्छा institute है हमे यहा बहुत कुछ सीखने को मिला । जब से यहां आए तब से कुछ ना 
+                            कुछ हर दिन सीखने को मिला । यहां के सभी अध्यापक अच्छे है । और यहां के सभी अध्यापक सभी छात्रों को मन से पढ़ाते है।
+                             और यहां के सभी अध्यापक सभी छात्रों को एक समान मानते है और किसी भी छात्र छात्राओं से किसी प्रकार का भेद भाव नही करते है 
+                             सभी को एक समान पढ़ाते है (यहां की अच्छी खूबी है की अगर कोई छात्र/छात्राएं 6 से 7 दिन तक इंस्टीट्यूट नही आते है तो उन्हें फोन कर
+                              के पूछे जाते है आप institute क्यों नहीं आ रहे है ) ये यहां की अच्छी खूबी है ।”
+                        </p>
+                    </div>
+                </div>
+                              
+                           </div>
+                       </div>
+                   </section>
+            
+                               </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying1" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying1" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
             </button>
@@ -1258,7 +1570,7 @@
     <footer class="footer" id="footer">
         <div class="container">
             <div class="footer-logo text-center">
-                <img src="assets/img/Logo/logo-1.png" alt="footer-logo" class="img-fluid">
+                <img src="assets/img/Logo/emlogo.png" alt="footer-logo" class="img-fluid">
             </div>
             <div class="footer-content">
                 <div class="row">
@@ -1268,11 +1580,10 @@
                                 <p>About Us</p>
                             </div>
                             <p class="txt">
-                                Empower Educare Which means IFAP focus on providing specialized training
-                                and skill development programs for specific IT Industries
-                                or Accounting Professions. They offer courses and
-                                certifications in areas such as Information Technology,
-                                Accounting, Graphics Designing and Web Development.
+                            Empower Educare, a unit of IFAP Institute Pvt. Ltd. 
+                            we are ISO 9001: 2015 Certified (Regd. under Companies act 1956 Govt. of India),
+                             we are working since 2003 and is now today we are one of the emerging educational
+                              institution of Indiawhich provides training in Financial Accounting in India.
                             </p>
                             <div class="heading">
                                 <p>Project</p>
