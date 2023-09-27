@@ -726,7 +726,7 @@
     </section>
 
     <!-- Events Section -->
-    <section class="event">
+     <!-- <section class="event">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -735,7 +735,7 @@
                         <h2>Upcoming Events</h2>
                         <p>Unleash Your Potential: Join us for an Extraordinary Journey
                         </p>
-                        <!-- <div class="line"></div> -->
+                       
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 mb-2">
@@ -805,7 +805,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>  -->
 
     <!-- online-learning section -->
     <section class="online-learning">
@@ -1214,88 +1214,7 @@
    
 
  <!--slider changes to testimonials-->
- <section class="home-section">
-        <div id="carouselExampleAutoplaying1" class="carousel slide" data-bs-ride="carousel">
-            
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="assets/img/Banner/9.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption home-section-carousel">
-                        <div class="heading-text text-start">
-                            <h1>Find the Best <br>
-                                <h1 class="typewrite" data-period="2000" data-type='[ "Courses & Upgrade Your Skills." ]'>
-                                    <span class="wrap"></span>
-                                </h1>
-                            </h1>
-                            <p>
-                                Skills have become the global currency of the 21st century economies!
-                                efficient solution for organizations to conduct assessments remotely.
-                            </p>
-
-                            <div class="home-btn butn">
-                                <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
-                                <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="assets/img/Banner/4.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption  home-section-carousel">
-                            <div class="heading-text text-start">
-                                <h1>MEET NOW FRIENDS</h1>
-                                <h3>
-                                    <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
-                                        <span class="wrap"></span>
-                                    </h3>
-                                </h3>
-                                <p>
-                                    Nothing is better than having friends study together. Each student can learn 
-                                    from others through by teamwork building and playing interesting games. 
-                                    Following Instruction of experts, you friends will gain best scores.
-                                </p>
-        
-                                <div class="home-btn butn home-btn1">
-                                    <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
-                                    <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
-                                </div>
-                            </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    
-                <img src="assets/img/Banner/1.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption  home-section-carousel">
-                            <div class="heading-text text-start">
-                                <h1>MEET NOW FRIENDS</h1>
-                                <h3>
-                                    <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
-                                        <span class="wrap"></span>
-                                    </h3>
-                                </h3>
-                                <p>
-                                    Nothing is better than having friends study together. Each student can learn 
-                                    from others through by teamwork building and playing interesting games. 
-                                    Following Instruction of experts, you friends will gain best scores.
-                                </p>
-        
-                                <div class="home-btn butn home-btn1">
-                                    <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
-                                    <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying1" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying1" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-            </button>
-        </div>
-    </section>
+ 
     
 
     
@@ -1306,28 +1225,58 @@
             <div class="row">
                 <div class="heading text-center">
                     <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                    <h2>Associate Partners</h2>
+                    <h2>Our Affiliates</h2>
                 </div>
 
                 <div class="col-lg-3 col-sm-6 col-12 mb-3">
                     <div class="partnr-logo">
-                        <img src="assets/img/Logo/tally-solution-1.jpg" alt="" class="img-fluid">
+                        <img src="assets/img/Logo/pmkvy1.jpg" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-12 mb-3">
                     <div class="partnr-logo">
-                        <img src="assets/img/Logo/Naas.png" alt="" class="img-fluid">
+                        <img src="assets/img/Logo/nsdc.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-12 mb-3">
                     <div class="partnr-logo">
-                        <img src="assets/img/Logo/Tally.png" alt="" class="img-fluid">
+                        <img src="assets/img/Logo/msme1.jpg" alt="" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-6 col-12 mb-3">
                     <div class="partnr-logo">
-                        <img src="assets/img/Logo/Astute.png" alt="" class="img-fluid">
+                        <img src="assets/img/Logo/skillindia.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+
+            </div>
+            <!-- second partner section -->
+            <div class="row">
+                <!-- <div class="heading text-center">
+                    <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
+                    <h2>Our Affiliates</h2>
+                </div> -->
+
+                <div class="col-lg-3 col-sm-6 col-12 mb-3">
+                    <div class="partnr-logo">
+                        <img src="assets/img/Logo/iso.jpg" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-12 mb-3">
+                    <div class="partnr-logo">
+                        <img src="assets/img/Logo/bosch1.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-12 mb-3">
+                    <div class="partnr-logo">
+                        <img src="assets/img/Logo/edge.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6 col-12 mb-3">
+                    <div class="partnr-logo">
+                        <img src="assets/img/Logo/skillindia.png" alt="" class="img-fluid">
                     </div>
                 </div>
 

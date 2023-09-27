@@ -25,7 +25,7 @@
 
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="img">
-                        <img src="assets/img/Image/img-3.png" alt="" class="img-fluid img-modal">
+                        <img src="assets/img/Image/8.png" alt="" class="img-fluid img-modal">
                     </div>
                 </div>
             </div>
@@ -597,7 +597,7 @@
 
                     <li class="nav-item dropdown"><a href="#!" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"> About Us</a>
                         <ul class="dropdown-menu aboutUl about-nav">
-                            <li><a class="dropdown-item" href="get-to-know-us.html">Who We Are</a></li>
+                            <li><a class="dropdown-item" href="get-to-know-us.html">Who Are We</a></li>
                             <li><a class="dropdown-item" href="work-with-us.html">Work with us</a></li>
                             <li><a class="dropdown-item" href="our-presence.html">Our presence</a></li>
                         </ul>
@@ -609,7 +609,7 @@
                                     <li>
                                         <a class="dropdown-item pe-0" href="#">
                                             <div class="n-img">
-                                                <img src="assets/img/New folder/01.jpg" alt="" class="img-fluid">
+                                                <img src="assets/img/New folder/19.jpg" alt="" class="img-fluid">
                                             </div>
                                         </a>
                                     </li>
@@ -725,7 +725,7 @@
                                     <li>
                                         <a class="dropdown-item pe-0" href="#">
                                             <div class="n-img courseImg">
-                                                <img src="assets/img/New folder/02.jpg" alt="" class="img-fluid">
+                                                <img src="assets/img/New folder/9.png" alt="" class="img-fluid">
                                             </div>
                                         </a>
                                     </li>
