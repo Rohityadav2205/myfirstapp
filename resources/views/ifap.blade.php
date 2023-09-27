@@ -60,28 +60,37 @@
     </div>
 
     <!--slider-->
+    
+       <!--slider-->
     <section class="home-section">
         <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
             
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="assets/img/Banner/embanner.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/1.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption home-section-carousel">
                         <div class="heading-text text-start">
-                            <h1>GET A HEAD START WITH OUR CAREER GUIDANCE <br>
-                                <h1 class="typewrite" data-period="2000" data-type='[ "Courses & Upgrade Your Skills." ]'>
-                                    <span class="wrap"></span>
-                                </h1>
+                            <h1>Welcome to Empower Educare <br>
+                                <h3>
+                                    <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
+                                        <span class="wrap"></span>
+                                    </h3>
+                                </h3>
                             </h1>
                             <p>
-                                Choosing The Right Career can Make a Big Difference!
+                            Empower Educare,a unit of  IFAP Institute.
+                            A distinguished hub of educational excellence and innovation. 
+                            From over 20 years, we have championed the cause of holistic education,
+                             instilling in our students a passion for learning and a commitment to lifelong growth.
                             </p>
                             <p>
-                                A BETTER LEARNING FUTURE STARTS WITH US!
+                            Our curriculum is designed to be challenging and engaging, 
+                            and our teachers are passionate about helping their students learn and grow.
+                             We believe in creating a supportive and inclusive learning environment where all 
+                             students feel valued and respected.
 
                             </p>
-                            <P> A Bright Accounting Career Awaits You.</P>
-                            <p>India's Best Financial Accounting IFAP Institute</p>
+                            
 
                             <div class="home-btn butn">
                                 <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
@@ -90,24 +99,25 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/1.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/4.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
-                                <h1>Tally Expert</h1>
+                                 <h1> WE ARE COMMITTED TO EXCELLENCE IN TEACHING</h1>
                                 <h3>
                                     <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
                                         <span class="wrap"></span>
                                     </h3>
                                 </h3>
-                                <P> WE ARE COMMITTED TO EXCELLENCE IN TEACHING</P>
-                                <P>Behind Every SUCCESSFUL BUSINESS There is a SMART ACCOUNTANT</P>
+                                 
+                                <!-- <P>Behind Every SUCCESSFUL BUSINESS There is a SMART ACCOUNTANT</P>  -->
 
-                                <!-- <p>
-                                    Nothing is better than having friends study together. Each student can learn 
-                                    from others through by teamwork building and playing interesting games. 
-                                    Following Instruction of experts, you friends will gain best scores.
-                                </p> -->
+                                 <p>
+                                 Our accomplished team of educators is dedicated to nurturing the unique potential of each student,
+                                  fostering not just academic prowess but also character, creativity, and critical thinking.
+                                </p>
+                               
         
                                 <div class="home-btn butn home-btn1">
                                     <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
@@ -117,21 +127,18 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/Banner 3.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/5.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
-                                <h1>Love to Accounting ?</h1>
+                                <!-- <h1>Love to Accounting ?</h1> -->
                                 <h3>
-                                    <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH  ACCOUNTING EXPERTS" ]'>
+                                    <h3 class="typewrite" data-period="2000" data-type='[ "EMPOWER EDUCARE,A UNIT OF IFAP INSTITUTE ." ]'>
                                         <span class="wrap"></span>
                                     </h3>
                                 </h3>
-                                <p>
-                                    Make Your Career to Grow in Accounting Field.
-                                </p>
-                                <p>Our Institute has Passionate Teachers and an Educational Atmosphere.</P>
-        
-                                <div class="home-btn butn home-btn1">
+                                <p> We believe in a personalized approach that caters to diverse learning styles, 
+                                    from early childhood education to college preparation.</p>
+                                 <div class="home-btn butn home-btn1">
                                     <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
                                     <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
                                 </div>
@@ -139,18 +146,21 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/embanner.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/6.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
-                                <h1>Learn Tally Prime From The Experts</h1>
+                                <!-- <h1>Learn Tally Prime From The Experts</h1> -->
                                 <h3>
                                     <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH TALLY EXPERTS" ]'>
                                         <span class="wrap"></span>
                                     </h3>
                                 </h3>
                                 <p>
-                                   Take Your Admission Here  AND Set Your Career in Top Gear..
+                                As a beacon of educational leadership, we empower our students with the skills, 
+                                knowledge, and values needed to excel in a dynamic world. 
                                 </p>
+        
+                               
         
                                 <div class="home-btn butn home-btn1">
                                     <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
@@ -160,22 +170,26 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/Banner 2.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/7.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
-                                <h1>India's No.1 Financial Accounting Institute </h1>
+                                <h3>WHAT IS BEST FOR YOUR INSTITUTE</h3>
+
                                 <h3>
                                     <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
                                         <span class="wrap"></span>
                                     </h3>
                                 </h3>
                                 <p>
-                                    Behind Every SUCCESSFUL BUSSINESS "There is a SOLDIER OF BUSINESS"
+                                Empower Educare understands students- helps then show their advantages most 
+                                effective by making their future be unique to attract potential student, keep long-term 
+                                students who will become greatest marketers for business.
+                            </p>
+                                
+                               
 
-                                    
-                                </p>
-                                <p> You Are Not Just an Accountant ,You Are  "The Soldier  of Bussiness" </p>
-                                <P> To Become a Best Accountant  Join  Our Institute</P>
+                                <!-- <p> You Are Not Just an Accountant ,You Are  "The Soldier  of Bussiness" </p>
+                                <P> To Become a Best Accountant  Join  Our Institute</P> -->
 
         
                                 <div class="home-btn butn home-btn1">
@@ -186,26 +200,22 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/embanner.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/8.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
-                                <h1>Think Tally Think IFAP</h1>
+                                <h1>EMPOWER EDUCARE</h1>
                                 <h3>
                                     <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
                                         <span class="wrap"></span>
                                     </h3>
                                 </h3>
                                 <p>
-                                        Select Your Favourite Course And Achieve Your Career Goal..
+                                At Empower Educare, we go beyond traditional education, embracing innovation
+                                 and cutting-edge methodologies to prepare our students for a future of limitless possibilities.
                                 </p>
-                                <p> The Best Thing Of our Tally Courses..
-                                    <br>
-                                    LEARN
-                                    <br>
-                                    PRACTICE
-                                    <br>
-                                    GET JOB
-                                </P>
+                               
+                               
+                                
                                 <P> You Can Turn Today into Tomorrow's Success Story.</P>
         
                                 <div class="home-btn butn home-btn1">
@@ -216,10 +226,10 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/Banner 3.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/9.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
-                                <h1>Tally Thoughts</h1>
+                                <!-- <h1>Financial Thoughts</h1> -->
                                 <h3>
                                     <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
                                         <span class="wrap"></span>
@@ -238,7 +248,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/embanner.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/10.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
                                 <h1>Train Your Brain With Us</h1>
@@ -248,7 +258,9 @@
                                     </h3>
                                 </h3>
                                 <p>
-                                    WALKIN WITH YOUR DREAM WALK OUT WITH YOUR FUTURE..
+                                    <!-- WALKIN WITH YOUR DREAM WALK OUT WITH YOUR FUTURE.. -->
+                                    Join us on this remarkable journey, where education is not just a destination,
+                                     but an ongoing adventure. Together, we'll shape a brighter tomorrow.
                                 </p>
                                 <br>
                                 <p> EDUCATION IS NOT THE LEARNING OF FACTS,but THE TRAINING OF THE MIND TO THINK </P>
@@ -262,20 +274,19 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/2.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/banner.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                         <div class="heading-text text-start">
-                            <h3>WHAT IS BEST FOR YOUR INSTITUTE</h3>
+                            <h1>India's No.1 Financial Accounting Institute </h1>
+
                             <h1>
                                 <h1 href="" class="typewrite" data-period="2000" data-type='[ "LEARNING AT EMPOWER EDUCARE" ]'>
                                     <span class="wrap"></span>
                                 </h1>
                             </h1>
-                            <p>
-                                Empower Educare understands students- helps then show their advantages most 
-                                effective by making their future be unique to attract potential student, keep long-term 
-                                students who will become greatest marketers for business.
-                            </p>
+                            <p>Our alumni, now successful professionals, stand as a testament to
+                                     the transformative power of our programs.</P>
+                            
 
                             <div class="home-btn butn home-btn1">
                                 <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
@@ -295,6 +306,7 @@
             </button>
         </div>
     </section>
+
 
     <section class="offers">
         <div class="container">
@@ -407,7 +419,7 @@
                 </div>
                 <div class="col-lg-5 col-md-12 col-12 mb-2">
                     <div class="image">
-                        <img src="assets/img/Image/img-2.png" alt="program-img" class="img-fluid">
+                        <img src="assets/img/Image/6.png" alt="program-img" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -513,8 +525,8 @@
             </div>
         </div>
     </section>
-
-    <section class="courses">
+<!-- course section -->
+    <!-- <section class="courses">
         <div class="container">
             <div class="heading text-center">
                 <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
@@ -523,7 +535,7 @@
             </div>
             <div class="row courseRow">
                 <div class="owl-slider my_dl">
-                    <div id="carousel1" class="owl-carousel">
+                    <div id="carousel2" class="owl-carousel">
                         <div class="item">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
                                 <div class="card">
@@ -682,14 +694,14 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="certificate-banner">
         <!-- <div class="contain"> -->
         <div class="row">
             <div class="col-lg-5 col-md-12 col-12">
                 <div class="img">
-                    <img src="assets/img/Image/img-4.jpg" alt="image" class="img-fluid">
+                    <img src="assets/img/Image/14.jpg" alt="image" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 col-12 mb-2">
@@ -729,7 +741,7 @@
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 mb-2">
                     <div class="card e-card">
                         <div class="card-header">
-                            <img src="assets/img/Image/National Championship.jpg" class="img-fluid">
+                            <img src="assets/img/Image/37.jpg" class="img-fluid">
                         </div>
                         <div class="card-body">
                             <div class="box-content">
@@ -751,7 +763,7 @@
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 crad-info mb-2">
                     <div class="card e-card">
                         <div class="card-header">
-                            <img src="assets/img/Image/International Chamoionship.jpg" class="img-fluid">
+                            <img src="assets/img/Image/56.jpg" class="img-fluid">
                         </div>
                         <div class="card-body">
                             <div class="box-content">
@@ -771,7 +783,7 @@
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 crad-info mb-2">
                     <div class="card e-card">
                         <div class="card-header">
-                            <img src="assets/img/Image/IT Championship.jpg" class="img-fluid">
+                            <img src="assets/img/Image/61.jpg" class="img-fluid">
                         </div>
                         <div class="card-body">
                             <div class="box-content">
@@ -800,7 +812,7 @@
         <div class="row">
             <div class="col-lg-5 col-md-12 col-12">
                 <div class="image">
-                    <img src="assets/img/Image/img-3.png" alt="" class="img-fluid">
+                    <img src="assets/img/Image/15.jpg" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 col-12">
@@ -1131,48 +1143,43 @@
             </div>
         </div>
     </section> -->
-   
-
-    <!--corousel testing section-->
-    <section class="home-section">
-        <div id="carouselExampleAutoplaying1" class="carousel slide" data-bs-ride="carousel">
-            
-            <div  class="carousel-inner">
-                <div  class="carousel-item active">
-                    <img src="assets/img/Banner/Banner 1.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption home-section-carousel">
-                        <div class="heading-text text-start">
-                            <h1>Find the Best <br>
-                                <h1 class="typewrite" data-period="2000" data-type='[ "Courses & Upgrade Your Skills." ]'>
-                                    <span class="wrap"></span>
-                                </h1>
-                            </h1>
-                            <p>
-                                Skills have become the global currency of the 21st century economies!
-                                efficient solution for organizations to conduct assessments remotely.
-                            </p>
-
-                            <div class="home-btn butn">
-                                <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
-                                <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- testimonials corousel -->
-                <div  class="carousel-item">
-                   
-                    
-    <section class="testimonial"style="background-color: #e7feff;">
+     <!-- Testimonial section -->
+     <section class="testimonial">
         <div class="container">
             <div class="row">
                 <div class="heading text-center">
                     <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                    <h2>What Students Says About Us</h2>
+                    <h2>Our Happy Students</h2>
                 </div>
 
-                
-                <div class="col-lg-12 col-md-12 col-12 mb-2">
+                <div class="col-lg-6 col-md-12 col-12 mb-2">
+                    <div class="test-box">
+                        <div class="row">
+                            <div class="col-2 col-md-12">
+                                <div class="img">
+                                    <img src="assets/img/Image/khushi srivastava pic 1.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-10 col-md-12">
+                                <div class="test-desc">
+                                    <p class="title">khushi srivastava </p>
+
+                                     <p> IFAP</p>
+                                    <p>Nichibagh, Near Post office, </p>
+                                       <p> Varanasi- 221001</p>
+                                    <p> Batch 2019-2020</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <p class="comment">
+                        “Thanks to IFAP institute one of the best in Varanasi. The teacher and staff members are very helpful.
+                            Teachers are very experienced and clear all the doubts. Complete place for education in computer skills.😇 ”
+                        
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-12 mb-2">
                     <div class="test-box">
                         <div class="row">
                             <div class="col-2 col-md-12">
@@ -1200,332 +1207,85 @@
                         </p>
                     </div>
                 </div>
-
-               
             </div>
         </div>
     </section>
+    
+   
 
-                    
-                    
-                </div>
-                <br>
-                <div  class="carousel-item">
-                   
-                    
-                   <section class="testimonial"style="background-color: #3388FF">
-                       <div class="container">
-                           <div class="row">
-                               <div class="heading text-center">
-                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                                   <h2>What Students Says About Us</h2>
-                               </div>
-               
-                               <div class="col-lg-12 col-md-12 col-12 mb-2">
-                    <div class="test-box">
-                        <div class="row">
-                            <div class="col-2 col-md-12">
-                                <div class="img">
-                                <img src="assets/img/Image/AMISHA PIC 22.jpg" alt="" class="img-fluid">                                </div>
-                            </div>
-                            <div class="col-10 col-md-12">
-                                <div class="test-desc">
-                                    <p class="title">Amisa </p>
-                                    <p> IFAP</p>
-                                    <p>Nichibagh, Near Post office, </p>
-                                       <p> Varanasi- 221001</p>
-                                    <p> Batch 2020-2022</p>
+ <!--slider changes to testimonials-->
+ <section class="home-section">
+        <div id="carouselExampleAutoplaying1" class="carousel slide" data-bs-ride="carousel">
+            
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="assets/img/Banner/9.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption home-section-carousel">
+                        <div class="heading-text text-start">
+                            <h1>Find the Best <br>
+                                <h1 class="typewrite" data-period="2000" data-type='[ "Courses & Upgrade Your Skills." ]'>
+                                    <span class="wrap"></span>
+                                </h1>
+                            </h1>
+                            <p>
+                                Skills have become the global currency of the 21st century economies!
+                                efficient solution for organizations to conduct assessments remotely.
+                            </p>
 
-                                </div>
+                            <div class="home-btn butn">
+                                <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
+                                <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
                             </div>
                         </div>
-                        <p class="comment">
-                            
-                            “ IFAP INSTITUTE is a very good institute. We have got to learn a lot here. every day we got to learn something new or 
-                            the other since we come here. IFAP INSTITUTE is one of the best institutes for Tally.”
-                       
-                          
-                        </p>
                     </div>
                 </div>
-                              
-                           </div>
-                       </div>
-                   </section>
-               
-                                   
-                                  
-                               </div>
-                               
-                               <br>
-
-               
-            <div  class="carousel-item">
-                   
-                    
-                   <section class="testimonial"style="background-color: #55AAFF">
-                       <div class="container">
-                           <div class="row">
-                               <div class="heading text-center">
-                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                                   <h2>What Students Says About Us</h2>
-                               </div>
-               
-                               <div class="col-lg-12 col-md-12 col-12 mb-2">
-                    <div class="test-box">
-                        <div class="row">
-                            <div class="col-2 col-md-12">
-                                <div class="img">
-                                <img src="assets/img/Image/achal singh pic.jpg" alt="" class="img-fluid">
+                <div class="carousel-item">
+                    <img src="assets/img/Banner/4.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption  home-section-carousel">
+                            <div class="heading-text text-start">
+                                <h1>MEET NOW FRIENDS</h1>
+                                <h3>
+                                    <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
+                                        <span class="wrap"></span>
+                                    </h3>
+                                </h3>
+                                <p>
+                                    Nothing is better than having friends study together. Each student can learn 
+                                    from others through by teamwork building and playing interesting games. 
+                                    Following Instruction of experts, you friends will gain best scores.
+                                </p>
+        
+                                <div class="home-btn butn home-btn1">
+                                    <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
+                                    <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
                                 </div>
                             </div>
-                            <div class="col-10 col-md-12">
-                                <div class="test-desc">
-                                    <p class="title">Anchal Singh </p>
-                                    <p> IFAP</p>
-                                    <p>Nichibagh, Near Post office, </p>
-                                       <p> Varanasi- 221001</p>
-                                    <p> Batch 2021-2022</p>
-
-                                </div>
-                            </div>
-                        </div>
-                        <p class="comment">
-                        “It was good experience with trainer and teaching skill good and interact and answering every questions asked by student. 
-                            Good knowledge and updated with his reliable courses. And Ashish sir are very friendly 😊😊🤗🤗”
-                       
-                        </p>
-                    </div>
-                </div>                      
-                           </div>
-                       </div>
-                   </section>
-            
-                               </div>
-                               <div  class="carousel-item">
-                   
-                    
-                   <section class="testimonial"style="background-color: #99badd">
-                       <div class="container">
-                           <div class="row">
-                               <div class="heading text-center">
-                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                                   <h2>What Students Says About Us</h2>
-                               </div>
-               
-                               <div class="col-lg-12 col-md-12 col-12 mb-2">
-                    <div class="test-box">
-                        <div class="row">
-                            <div class="col-2 col-md-12">
-                                <div class="img">
-                                <img src="assets/img/Image/veera jain pic 2.jpg" alt="" class="img-fluid">                                </div>
-                            </div>
-                            <div class="col-10 col-md-12">
-                                <div class="test-desc">
-                                    <p class="title">Veera Jain </p>
-                                    <p> IFAP</p>
-                                    <p>Nichibagh, Near Post office, </p>
-                                       <p> Varanasi- 221001</p>
-                                    <p> Batch 2020-2022</p>
-
-                                </div>
-                            </div>
-                        </div>
-                        <p class="comment">
-                        “Tally Academy is the best education institute in Varanasi for computer courses,
-                             we got best education and felt better future planning while doing TALLY course from here.
-                              And all the students who are studied here, they are leading their future. 'IFAP Institute' 
-                              is always active in improving Study skill, followed by Rules & Regulations, Discipline Unity,
-                               Trust of completing the course according to time and motivating for the Job. 
-                               Special Thanks to the Honorable Director 'Ashish Sir', who struggling in making best educational institution of 'Tally Academy'.”
-                      
-                        </p>
-                    </div>
-                </div>                      
-                           </div>
-                       </div>
-                   </section>
-            
-                               </div>
-                               <div  class="carousel-item">
-                   
-                    
-                   <section class="testimonial"style="background-color: #417dc1">
-                       <div class="container">
-                           <div class="row">
-                               <div class="heading text-center">
-                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                                   <h2>What Students Says About Us</h2>
-                               </div>
-               
-                               <div class="col-lg-12 col-md-12 col-12 mb-2">
-                    <div class="test-box">
-                        <div class="row">
-                            <div class="col-2 col-md-12">
-                                <div class="img">
-                                <img src="assets/img/Image/khushi srivastava pic 1.jpg" alt="" class="img-fluid">
-                                </div>
-                            </div>
-                            <div class="col-10 col-md-12">
-                                <div class="test-desc">
-                                    <p class="title">khushi Srivastava </p>
-                                    <p> IFAP</p>
-                                    <p>Nichibagh, Near Post office, </p>
-                                       <p> Varanasi- 221001</p>
-                                    <p> Batch 2021-2022</p>
-
-                                </div>
-                            </div>
-                        </div>
-                        <p class="comment">
-                        “Thank you for the valuable knowledge and skills I have gained during my time here
-                            The DCIA course has been a transformative experience for me, and I appreciate
-                            the institute for providing such a comprehensive program”
-                        </p>
-                    </div>
-                </div>                      
-                           </div>
-                       </div>
-                   </section>
-            
-                               </div>
-                               <div class="carousel-item">
-                   
-                    
-                   <section class="testimonial"style="background-color: #b0c4de">
-                       <div class="container">
-                           <div class="row">
-                               <div class="heading text-center">
-                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                                   <h2>What Students Says About Us</h2>
-                               </div>
-               
-                               <div class="col-lg-12 col-md-12 col-12 mb-2">
-                    <div class="test-box">
-                        <div class="row">
-                            <div class="col-2 col-md-12">
-                                <div class="img">
-                                <img src="assets/img/Image/saurabh kumar pic. - Copy.jpg" alt="" class="img-fluid">
-                                </div>
-                            </div>
-                            <div class="col-10 col-md-12">
-                                <div class="test-desc">
-                                    <p class="title">Saurabh Kumar </p>
-                                    <p> IFAP</p>
-                                    <p>Nichibagh, Near Post office, </p>
-                                       <p> Varanasi- 221001</p>
-                                    <p> Batch 2021-2022</p>
-
-                                </div>
-                            </div>
-                        </div>
-                        <p class="comment">
-                        “Thanks to IFAP institute one of the best in Varanasi. The teacher and staff members are very helpful.
-                            Teachers are very experienced and clear all the doubts. Complete place for education in computer skills.😇 ”
-                      
-                        </p>
-                    </div>
-                </div>                      
-                           </div>
-                       </div>
-                   </section>
-            
-                               </div>
-                               <div  class="carousel-item">
-                   
-                    
-                   <section class="testimonial"style="background-color: #add8e6">
-                       <div class="container">
-                           <div class="row">
-                               <div class="heading text-center">
-                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                                   <h2>What Students Says About Us</h2>
-                               </div>
-               
-                               <div class="col-lg-12 col-md-12 col-12 mb-2">
-                    <div class="test-box">
-                        <div class="row">
-                            <div class="col-2 col-md-12">
-                                <div class="img">
-                                <img src="assets/img/Image/Zainab Parveen - Copy.jpeg" alt="" class="img-fluid">
-                                </div>
-                            </div>
-                            <div class="col-10 col-md-12">
-                                <div class="test-desc">
-                                    <p class="title">Zainab Parveen </p>
-                                    <p> IFAP</p>
-                                    <p>Nichibagh, Near Post office, </p>
-                                       <p> Varanasi- 221001</p>
-                                    <p> Batch 2021-2022</p>
-
-                                </div>
-                            </div>
-                        </div>
-                        <p class="comment">
-                        “ This institution is one of the best in Varanasi. The teacher and staff members are very helpful.
-                            Teachers are very experienced and clear all the doubts. Complete place for education in computer skills.😇
-                              ”
-                        </p>
-                    </div>
-                </div>                      
-                           </div>
-                       </div>
-                   </section>
-            
-                               </div>
-                               
-                            
-            <!-- <div style="padding:50px;border-style:ridge;border-width:10px;" class="carousel-item"> -->
-            <div  class="carousel-item">
-
-                   
-                    
-                   <section class="testimonial"style="background-color: #abcdef;padding:50px;border-style:ridge;border-width:10px;">
-                       <div class="container">
-                           <!-- <div class="row" style="background-color: #33475b"> -->
-                           <div class="row" >
-
-                               <div class="heading text-center"  >
-                                   <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                                   <h2>What Students Says About Us</h2>
-                               </div>
-               
-                               <!-- <div class="col-lg-12 col-md-12 col-12 mb-2"> -->
-                               <div class="col-lg-2 col-md-12 col-12 mb-2"></div>
-                               <div class="col-lg-8 col-md-12 col-12 mb-2" style="background-color:#1d2951">
-                    <div class="test-box">
-                        <div class="row">
-                            <div class="col-2 col-md-12">
-                                <div class="img">
-                                <img src="assets/img/Image/UTKARSH DAVE PIC.jpg" alt="" class="img-fluid">
-                                </div>
-                            </div>
-                            <div class="col-10 col-md-12">
-                                <div class="test-desc">
-                                    <p class="title">Utkarsh Dev </p>
-                                    <p> IFAP</p>
-                                    <p>Nichibagh, Near Post office, </p>
-                                       <p> Varanasi- 221001</p>
-                                    <p> Batch 2022-2023</p>
-
-                                </div>
-                            </div>
-                        </div class="" style="background-color: #5d8aa8">
-                        <p class="comment">
-                        “Ifap institute बहुत अच्छा institute है हमे यहा बहुत कुछ सीखने को मिला । जब से यहां आए तब से कुछ ना 
-                            कुछ हर दिन सीखने को मिला । यहां के सभी अध्यापक अच्छे है । और यहां के सभी अध्यापक सभी छात्रों को मन से पढ़ाते है।
-                             और यहां के सभी अध्यापक सभी छात्रों को एक समान मानते है और किसी भी छात्र छात्राओं से किसी प्रकार का भेद भाव नही करते है 
-                             सभी को एक समान पढ़ाते है (यहां की अच्छी खूबी है की अगर कोई छात्र/छात्राएं 6 से 7 दिन तक इंस्टीट्यूट नही आते है तो उन्हें फोन कर
-                              के पूछे जाते है आप institute क्यों नहीं आ रहे है ) ये यहां की अच्छी खूबी है ।”
-                        </p>
                     </div>
                 </div>
-                              
-                           </div>
-                       </div>
-                   </section>
-            
-                               </div>
+                <div class="carousel-item">
+                    
+                <img src="assets/img/Banner/1.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption  home-section-carousel">
+                            <div class="heading-text text-start">
+                                <h1>MEET NOW FRIENDS</h1>
+                                <h3>
+                                    <h3 class="typewrite" data-period="2000" data-type='[ "AND STUDY WITH EXPERTS" ]'>
+                                        <span class="wrap"></span>
+                                    </h3>
+                                </h3>
+                                <p>
+                                    Nothing is better than having friends study together. Each student can learn 
+                                    from others through by teamwork building and playing interesting games. 
+                                    Following Instruction of experts, you friends will gain best scores.
+                                </p>
+        
+                                <div class="home-btn butn home-btn1">
+                                    <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
+                                    <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying1" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
@@ -1540,7 +1300,7 @@
 
     
 
-    <!-- Partners section -->
+  <!-- Partners section -->
     <section class="partners">
         <div class="container">
             <div class="row">
@@ -1573,7 +1333,7 @@
 
             </div>
         </div>
-    </section>
+    </section> 
 
     <!-- Footer start -->
     <footer class="footer" id="footer">
@@ -1656,7 +1416,7 @@
                 </div>
             </div>
             <div class="last-footer text-center">
-                <p class="txt">© 2023 IFAP INDIA Pvt. Ltd. All Rights Reserved.</p>
+                <p class="txt">All Rights Reserved © 2023 EMPOWER EDUCARE  INDIA Pvt. Ltd. </p>
             </div>
         </div>
     </footer>

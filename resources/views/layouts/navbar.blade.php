@@ -597,7 +597,7 @@
 
                     <li class="nav-item dropdown"><a href="#!" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"> About Us</a>
                         <ul class="dropdown-menu aboutUl about-nav">
-                            <li><a class="dropdown-item" href="get-to-know-us.html">Get to Know us</a></li>
+                            <li><a class="dropdown-item" href="get-to-know-us.html">Who We Are</a></li>
                             <li><a class="dropdown-item" href="work-with-us.html">Work with us</a></li>
                             <li><a class="dropdown-item" href="our-presence.html">Our presence</a></li>
                         </ul>
