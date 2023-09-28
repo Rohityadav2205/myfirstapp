@@ -101,7 +101,7 @@
                 </div>
                 
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/4.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/4.2.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
                                  <h1> WE ARE COMMITTED TO EXCELLENCE IN TEACHING</h1>
@@ -226,7 +226,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="assets/img/Banner/9.jpg" class="d-block w-100" alt="...">
+                    <img src="assets/img/Banner/4.1.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption  home-section-carousel">
                             <div class="heading-text text-start">
                                 <!-- <h1>Financial Thoughts</h1> -->
@@ -366,7 +366,7 @@
             <div class="row">
                 <div class="col-lg-7 col-md-12 col-12 mb-2" id="firstCol">
                     <div class="heading">
-                        <h2>Creating For Quality Education </h2>
+                        <h2>Join Us For Quality Education </h2>
                         <p>Follow Us For Join Our Events</p>
                     </div>
                     <div class="line"></div>
@@ -381,13 +381,17 @@
                             </div>
                             <div class="col-lg-10 col-md-12 col-12 mb-2 text-in ps-4">
                                 <h4>Certificate Programs</h4>
-                                <p>Certification courses are basically worked for those students who are not able to
-                                    avail degree programs. These certificates courses last for three to six years of
-                                    duration whereas some certificate courses are also last for six to one years of
-                                    duration that varies from one courses to another.</p>
+                                <p>Certificate programs are short-term, focused educational programs that are 
+                                    designed to provide specific knowledge and skills in a particular field
+                                    or subject area. These programs are typically shorter in duration compared 
+                                    to traditional degree programs and are often offered by universities,colleges, 
+                                    vocational schools, online learning platforms, and other educational institutions.
+                                    Certificate programs are a popular choice for individuals looking to acquire new
+                                    skills, advance their careers, or change professions 
+                                    without committing to a full degree program.</p>
                             </div>
                         </div>
-                        <div class="row mt-3">
+                        <!-- <div class="row mt-3">
                             <div class="col-lg-2 col-md-2 col-3">
                                 <div class="box">
                                     <img src="assets/img/Logo/Diploma.png" alt="diploma-logo" class="img-fluid">
@@ -400,7 +404,7 @@
                                     university can confer a degree. To pursue higher education, a degree from only
                                     a UGC approved university is accepted.</p>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="row mt-3">
                             <div class="col-lg-2 col-md-2 col-3">
                                 <div class="box">
@@ -409,17 +413,24 @@
                             </div>
                             <div class="col-lg-10 col-md-12 col-12 mb-2 ps-4">
                                 <h4>Financial Accounting Programs</h4>
-                                <p>Financial Accounting Program introduce students to the practical application
-                                    of financial accounting principles. Students use real-world examples to prepare and
-                                    evalute financial statements. Topics include accounts receivable, financial ratios,
-                                    debt, and inventory</p>
+                                <p>Financial accounting programs are designed to teach students to prepare and analyze 
+                                    financial statements.  that focus on teaching students the    principles, concepts,
+                                    and practices of financial accounting. These  programs  are   designed  to  provide 
+                                    students with the knowledge and skills needed to  understand,  analyze,  and report
+                                    on  thefinancial  transactions   and financial health  of  organizations.  Financial 
+                                    accounting is a critical component of business and finance, and  it  is essential for
+                                     individuals pursuing careers in accounting, finance, auditing,and related fields.</p>
+                                    
+                                 <!-- <p>Choose any from our wide range of coursesincluding:
+                                    Tally | GST | TDS | E-Taxation | Payroll | Advance Excel | Spoken English | Creative Designing, Etc.
+                                      </p> -->
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-12 col-12 mb-2">
                     <div class="image">
-                        <img src="assets/img/Image/6.png" alt="program-img" class="img-fluid">
+                        <img src="assets/img/Image/6.2.png" alt="program-img" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -431,15 +442,15 @@
             <div class="banner-content">
                 <div class="row">
                     <div class="col-lg-2 col-md-3 lines pt-2">
-                        <button type="button" class="btn btn-danger">Free Trials</button>
+                        <button type="button" class="btn btn-primary px-3">Free Trials</button>
                         <p class="bold pt-1 ps-2"><b>03 Days</b></p>
                     </div>
                     <div class="col-lg-8 col-md-6 lines">
-                        <p class="text">We're excited to offer you a 03-days free trial before you actually start your
-                            journey with us! Sign Up Now!</p>
+                        <p class="text">3-day trial classes are a great way to try out our different courses before committing to enrolling.
+                             We allow you to experience first-hand the program's curriculum, teaching methods, and learning environment.</p>
                     </div>
                     <div class="col-lg-2 col-md-3 pt-3 pb-2 lines2">
-                        <button type="button" class="btn btn-primary px-3">Register</button>
+                        <button type="button" class="btn btn-primary px-3">Enroll Now</button>
                         <!-- <p class="register"><i class="fa-solid fa-hand-pointer"></i> Register</p> -->
                     </div>
                 </div>
@@ -709,15 +720,15 @@
                     <div class="img text-center">
                         <img src="assets/img/Logo/02.png" alt="badge" width="80" class="img-fluid">
                     </div>
-                    <h3>Get Your Quality Skills Certificate <br> Through Online Exam</h3>
-                    <p>
+                    <h3> To Become a suitable Job Ready Candidates, <br> Take our Online Exam and Get Certified.</h3>
+                    <!-- <p>
                         Students friendly pricing for the certificate programs helps individuals to get their skill
                         certificate easier than ever!
-                    </p>
+                    </p> -->
 
                     <div class="butn">
-                        <a href="#!" class="btn btn-primary">View All Courses</a>
-                        <a href="#!" class="btn btn-primary">View All Certificates</a>
+                        <a href="#!" class="btn btn-primary">Our Courses</a>
+                        <a href="#!" class="btn btn-primary">Sample Certificates</a>
                     </div>
                 </div>
             </div>
@@ -726,13 +737,13 @@
     </section>
 
     <!-- Events Section -->
-     <!-- <section class="event">
+     <section class="event">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="heading text-center">
                         <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                        <h2>Upcoming Events</h2>
+                        <h2>News Letter </h2>
                         <p>Unleash Your Potential: Join us for an Extraordinary Journey
                         </p>
                        
@@ -805,7 +816,7 @@
                 </div>
             </div>
         </div>
-    </section>  -->
+    </section> 
 
     <!-- online-learning section -->
     <section class="online-learning">
@@ -1220,7 +1231,7 @@
     
 
   <!-- Partners section -->
-    <section class="partners">
+    <!-- <section class="partners">
         <div class="container">
             <div class="row">
                 <div class="heading text-center">
@@ -1251,12 +1262,8 @@
                 </div>
 
             </div>
-            <!-- second partner section -->
             <div class="row">
-                <!-- <div class="heading text-center">
-                    <img src="assets/img/three-stars.png" alt="star-img" width="50" class="img-fluid ">
-                    <h2>Our Affiliates</h2>
-                </div> -->
+               
 
                 <div class="col-lg-3 col-sm-6 col-12 mb-3">
                     <div class="partnr-logo">
@@ -1282,7 +1289,7 @@
 
             </div>
         </div>
-    </section> 
+    </section>  -->
 
     <!-- Footer start -->
     <footer class="footer" id="footer">

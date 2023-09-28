@@ -39,7 +39,7 @@
         <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3 m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Basic of Computer</h4>
+                <h4 class="course-modalhead ms-2">Basic of Computer(BOC)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -53,17 +53,21 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Fundamental of Computer</p></div>
+                                <div class="col-md-9 col-8"><p>Fundamentals of Computers</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Microsoft Word 2019</p></div>
+                                <div class="col-md-9 col-8"><p>Microsoft Windows</p></div>
                                 <div class="col-md-3 col-4"><p>Module 3:</p></div>
-                                <div class="col-md-9 col-8"><p>Microsoft Excel 2019</p></div>
+                                <div class="col-md-9 col-8"><p>Ms Word</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
-                                <div class="col-md-9 col-8"><p>Microsoft Power Point 2019</p></div>
+                                <div class="col-md-9 col-8"><p>Ms Excel</p></div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
-                                <div class="col-md-9 col-8"><p>Introduction of Digital Media Technology</p></div>
+                                <div class="col-md-9 col-8"><p>Ms PowerPoint</p></div>
                                 <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Internet and Emailing</p></div>
+                                <div class="col-md-9 col-8"><p>English Typing</p></div>
+                                <div class="col-md-3 col-4"><p>Module 7:</p></div>
+                                <div class="col-md-9 col-8"><p>Internet Concepts</p></div>
+                                <div class="col-md-3 col-4"><p>Module 8:</p></div>
+                                <div class="col-md-9 col-8"><p>Web Browsers</p></div>
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -81,7 +85,7 @@
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
-                                    <span>4,000/-</span>
+                                    <span>3,500/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -103,7 +107,7 @@
             <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Diploma in Computer Application (DCA)</h4>
+                <h4 class="course-modalhead ms-2">Course on Computer Concepts (CCC)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -117,17 +121,29 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Fundamental of Information Technology</p></div>
+                                <div class="col-md-9 col-8"><p>Intro. to Computer</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Introduction of Windows 10</p></div>
+                                <div class="col-md-9 col-8"><p>Intro.to Operating System</p></div>
                                 <div class="col-md-3 col-4"><p>Module 3:</p></div>
-                                <div class="col-md-9 col-8"><p>Microsoft Office 2019</p></div>
+                                <div class="col-md-9 col-8"><p>Intro. to Ubuntu OS</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
-                                <div class="col-md-9 col-8"><p>PC Assembly, and Troubleshooting</p></div>
+                                <div class="col-md-9 col-8"><p>Intro. to Libre Office</p></div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
-                                <div class="col-md-9 col-8"><p>Basic Networking Concepts</p></div>
+                                <div class="col-md-9 col-8"><p>Ms Word</p></div>
                                 <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Internet Basics and E-Business</p></div>
+                                <div class="col-md-9 col-8"><p>Ms Excel</p></div>
+                                <div class="col-md-3 col-4"><p>Module 7:</p></div>
+                                <div class="col-md-9 col-8"><p>Ms PowerPoint</p></div>
+                                <div class="col-md-3 col-4"><p>Module 8:</p></div>
+                                <div class="col-md-9 col-8"><p>Intro. to Internet WWW and Web Browsers</p></div>
+                                <div class="col-md-3 col-4"><p>Module 9:</p></div>
+                                <div class="col-md-9 col-8"><p>E-mail Concepts</p></div>
+                                <div class="col-md-3 col-4"><p>Module 10:</p></div>
+                                <div class="col-md-9 col-8"><p>Social Networking and E-Governance Services</p></div>
+                                <div class="col-md-3 col-4"><p>Module 11:</p></div>
+                                <div class="col-md-9 col-8"><p>Digital Financial Tools and Application</p></div>
+                                <div class="col-md-3 col-4"><p>Module 12:</p></div>
+                                <div class="col-md-9 col-8"><p>Overview of Future Skills & Cyber Security</p></div>
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -141,11 +157,11 @@
                             <ul class="course-modal-list pb-4">
                                 <li>
                                     <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
-                                    <span>06-12 Months</span>
+                                    <span>03 Months</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
-                                    <span>4,500 to 9,000/-</span>
+                                    <span>3,500/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -167,7 +183,7 @@
             <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Advance Diploma in Computer Application (ADCA)</h4>
+                <h4 class="course-modalhead ms-2"> Certificate in Advance Excel (CAE)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -181,17 +197,36 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Fundamental of Information Technology</p></div>
+                                <div class="col-md-9 col-8"><p>Introducing Excel</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Microsoft Office Specialist 2019</p></div>
+                                <div class="col-md-9 col-8"><p>Introducing Formulas and functions</p></div>
                                 <div class="col-md-3 col-4"><p>Module 3:</p></div>
-                                <div class="col-md-9 col-8"><p>Tally Prime with GST</p></div>
+                                <div class="col-md-9 col-8"><p>Worksheet Formatting</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
-                                <div class="col-md-9 col-8"><p>Desktop to Publication Program</p></div>
+                                <div class="col-md-9 col-8"><p>Working with Formulas</p></div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
-                                <div class="col-md-9 col-8"><p>HTML and Web Designing</p></div>
+                                <div class="col-md-9 col-8"><p>V lookup and H lookup</p></div>
                                 <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Internet and Web Communication</p></div>
+                                <div class="col-md-9 col-8"><p>Data Validation</p></div>
+                                <div class="col-md-3 col-4"><p>Module 7:</p></div>
+                                <div class="col-md-9 col-8"><p>Pivot Tables </p></div>
+                                <div class="col-md-3 col-4"><p>Module 8:</p></div>
+                                <div class="col-md-9 col-8"><p>Making Charts </p></div>
+                                <div class="col-md-3 col-4"><p>Module 9:</p></div>
+                                <div class="col-md-9 col-8"><p>Conditional Formatting </p></div>
+                                <div class="col-md-3 col-4"><p>Module 10:</p></div>
+                                <div class="col-md-9 col-8"><p>Protecting Work Sheet</p></div>
+                                <div class="col-md-3 col-4"><p>Module 11:</p></div>
+                                <div class="col-md-9 col-8"><p>Advance Filter </p></div>
+                                <div class="col-md-3 col-4"><p>Module 12:</p></div>
+                                <div class="col-md-9 col-8"><p>Goal Seek </p></div>
+                                <div class="col-md-3 col-4"><p>Module 13:</p></div>
+                                <div class="col-md-9 col-8"><p>Scenario Manager </p></div>
+                                <div class="col-md-3 col-4"><p>Module 14:</p></div>
+                                <div class="col-md-9 col-8"><p>Consolidation </p></div>
+                                <div class="col-md-3 col-4"><p>Module 15:</p></div>
+                                <div class="col-md-9 col-8"><p>Advance Data Filter Etc </p></div>
+                                
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -205,11 +240,11 @@
                             <ul class="course-modal-list pb-4">
                                 <li>
                                     <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
-                                    <span>12 Months</span>
+                                    <span>1 Months</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
-                                    <span>8,500/-</span>
+                                    <span>3,500/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -231,7 +266,7 @@
             <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Graphics Designing Program (Kreative Artist)</h4>
+                <h4 class="course-modalhead ms-2">Basic of Computer Kids (BCK)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -245,17 +280,17 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Fundamentals of Design & Drawing</p></div>
+                                <div class="col-md-9 col-8"><p>Operating System</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Working with Photoshop, CorelDraw</p></div>
+                                <div class="col-md-9 col-8"><p>Ms Paint Notepad</p></div>
                                 <div class="col-md-3 col-4"><p>Module 3:</p></div>
-                                <div class="col-md-9 col-8"><p>Concepts of Graphic & Illustration</p></div>
+                                <div class="col-md-9 col-8"><p>Basic Feature of Ms Word</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
-                                <div class="col-md-9 col-8"><p>Image Editing and Graphic Design</p></div>
+                                <div class="col-md-9 col-8"><p></p>Basic Feature of Ms Excel</div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
-                                <div class="col-md-9 col-8"><p>E-Publishing</p></div>
+                                <div class="col-md-9 col-8"><p>Basic Feature of Ms PowerPoint</p></div>
                                 <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Digital Printing & Technology</p></div>
+                                <div class="col-md-9 col-8"><p>Internet Concept</p></div>
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -460,11 +495,11 @@
                         <div class="col-md-8 text-start">
                             <ul class="course-modal-list pb-4">
                                 <li>
-                                    <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
+                                    <img src="assets/img/Courses/icon 06.png" class="course-modal-img me-1">
                                     <span>06 Months</span>
                                 </li>
                                 <li>
-                                    <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
+                                    <img src="assets/img/Courses/icon 06.png" class="course-modal-img me-1">
                                     <span>8,000/-</span>
                                 </li>
                                 <li>
@@ -725,7 +760,7 @@
                                     <li>
                                         <a class="dropdown-item pe-0" href="#">
                                             <div class="n-img courseImg">
-                                                <img src="assets/img/New folder/9.png" alt="" class="img-fluid">
+                                                <img src="assets/img/New folder/6.2.png" alt="" class="img-fluid">
                                             </div>
                                         </a>
                                     </li>
@@ -738,7 +773,7 @@
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_1">
                                                     <p class="p-title">Basic of Computer(BOC)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 3 months</span> 
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 4000/-</span></p>
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 3,500/-</span></p>
                                                 </div>
                                             </div>
                                         </a>
@@ -747,10 +782,10 @@
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="middle">
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_2">
-                                                    <p class="p-title">Diploma in Computer Application (DCA)
+                                                    <p class="p-title">Course on Computer concepts (CCC)
                                                     </p>
-                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i> <strong> Duration: </strong> 6 months</span>
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i> <strong> Fees: </strong> 4500/-</span></p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i> <strong> Duration: </strong> 3 months</span>
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i> <strong> Fees: </strong> 3,500/-</span></p>
                                                 </div>
                                             </div>
                                         </a>
@@ -759,9 +794,9 @@
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="middle">
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_3">
-                                                    <p class="p-title">Advance Diploma in Computer Application (ADCA)</p>
-                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 12 months</span>
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 8500/-</span></p>
+                                                    <p class="p-title">Certificate in Advance Excel (CAE)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 1 months</span>
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 3,500/-</span></p>
                                                 </div>
                                             </div>
                                         </a>
@@ -770,13 +805,57 @@
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="middle">
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
-                                                    <p class="p-title">Graphics Designing Program (Kreative Artist)</p>
-                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 4 months</span> 
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 4500/-</span></p>
+                                                    <p class="p-title">Basic of Computer Kids (BCK)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 2 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 2,500/-</span></p>
                                                 </div>
                                             </div>
                                         </a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item p-0" href="#">
+                                            <div class="middle">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
+                                                    <p class="p-title">Certificate in Spoken English (CSE)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong>3&6 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 4,500/-</span></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li>
+                                        <a class="dropdown-item p-0" href="#">
+                                            <div class="middle">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
+                                                    <p class="p-title">Certificate in English/Hindi Typing (CE&HT)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong>1 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 1,800/-</span></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                      <li>
+                                        <a class="dropdown-item p-0" href="#">
+                                            <div class="middle">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
+                                                    <p class="p-title">certificate in Payroll Management (CPM)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong>3&6 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 4,500/-</span></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li> 
+                                     <!-- <li>
+                                        <a class="dropdown-item p-0" href="#">
+                                            <div class="middle">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
+                                                    <p class="p-title">Sunday Special Classes (SSC)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong>3&6 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 4,500/-</span></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li> -->
                                 </div>
                                 <div class="col-lg-5 col-md-6">
                                     <li>
@@ -784,9 +863,9 @@
                                             <div class="right">
                                                 <h4>ACCOUNTING PROGRAM</h4>
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_5">
-                                                    <p class="p-title">Tally Financial Accounting Program (TFAP)</p>
-                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 6 months</span> 
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 7000/-</span>
+                                                    <p class="p-title">Advance Certificate in Professional Financial Accounting & E-Taxation(ACPFAe-T)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 12 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 20,500/-</span>
                                                     </p>
                                                 </div>
                                             </div>
@@ -796,9 +875,9 @@
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_6">
-                                                    <p class="p-title">Diploma in Business Administration Accounting (DBAA)</p>
-                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 12 months</span> 
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 16000/-</span>
+                                                    <p class="p-title">IFAP Certified Professional Accountant (ICPA)</p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 8 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 17,500/-</span>
                                                     </p>
                                                 </div>
                                             </div>
@@ -808,9 +887,9 @@
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_7">
-                                                    <p class="p-title">Diploma in Financial Accounting Program (DFAP)</p>
+                                                    <p class="p-title">Certificate in TallyPrime with E-Taxation (CTPe-T)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 6 months</span> 
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 8000/-</span>
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 14,500/-</span>
                                                     </p>
                                                 </div>
                                             </div>
@@ -820,9 +899,33 @@
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
                                                 <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_8">
-                                                    <p class="p-title">Adv. Diploma in Financial Accounting Program (ADFAP) </p>
-                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 12 months</span> 
-                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 14000/-</span>
+                                                    <p class="p-title">IFAP Certified Professional Accountant (CFAP&T) </p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 6 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 12,500/-</span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li>
+                                        <a class="dropdown-item p-0" href="#">
+                                            <div class="right">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_8">
+                                                    <p class="p-title"> Certificate Program in Tally with GST (CPT) </p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 3 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 5,500/-</span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                     <li>
+                                        <a class="dropdown-item p-0" href="#">
+                                            <div class="right">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_8">
+                                                    <p class="p-title"> IFAP Certified GST Master (ICGM) </p>
+                                                    <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 1 months</span> 
+                                                        <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 3,500/-</span>
                                                     </p>
                                                 </div>
                                             </div>
