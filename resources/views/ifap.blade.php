@@ -141,6 +141,11 @@
                                  <div class="home-btn butn home-btn1">
                                     <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
                                     <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
+                                    <h3>
+                                    <h3 class="typewrite" data-period="2000" data-type='[ "uyg,A UNIT OF IFAP INSTITUTE ." ]'>
+                                        <span class="wrap"></span>
+                                    </h3>
+                                </h3>
                                 </div>
                             </div>
                     </div>
@@ -290,7 +295,7 @@
 
                             <div class="home-btn butn home-btn1">
                                 <a href="registration.html" class="btn btn-primary first-btn">Register Now</a>
-                                <a href="#!" class="btn btn-primary second-btn">View All Courses</a>
+                                <!-- <a href="#!" class="btn btn-primary second-btn">View All Courses</a> -->
                             </div>
                         </div>
                     </div>
@@ -792,6 +797,7 @@
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 crad-info mb-2">
+                    
                     <div class="card e-card">
                         <div class="card-header">
                             <img src="assets/img/Image/61.jpg" class="img-fluid">
@@ -817,6 +823,45 @@
             </div>
         </div>
     </section> 
+
+
+    <!-- news section test -->
+    <section class="news-letter">
+        <div class="row">
+           <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+  Launch static backdrop modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <P> Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+             when an unknown printer took a galley of type and scrambled it to make a type 
+             specimen book. It has survived not only five centuries, but also the leap into 
+             electronic typesetting, remaining essentially unchanged. It was popularised in 
+             the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+             and more recently with desktop publishing software like Aldus PageMaker including 
+             versions of Lorem Ipsum. </P>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Understood</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+</section>
 
     <!-- online-learning section -->
     <section class="online-learning">

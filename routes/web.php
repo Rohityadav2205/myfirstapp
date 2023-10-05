@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -16,8 +17,28 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+Route::get('/test', function () {
+    return view('welcome');
+});
 
 Route::get('/ifap', function(){
     return view('ifap');
 });
+Route::get('/yu', function(){
+    return view('ifap');
+});
+// Route::get('/registration.html', function(){
+//     return view('registration.html');
+// });
+Route::get('/dbconn', function(){
+    return view('dbconn');
+});
+
+
+// ...
+Route::get('/abc', function(){
+    echo 'abc';
+});
+
+// Route::get('/register', [RegisterController::class, 'showRegistrationForm'])->name('register');
+// Route::post('/register', [RegisterController::class, 'register']);

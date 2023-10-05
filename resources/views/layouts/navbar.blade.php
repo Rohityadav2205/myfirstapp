@@ -304,11 +304,11 @@
                             <ul class="course-modal-list pb-4">
                                 <li>
                                     <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
-                                    <span>04 Months</span>
+                                    <span>2 Months</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
-                                    <span>4,500/-</span>
+                                    <span>2,500/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -330,7 +330,7 @@
             <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Tally Financial Accounting Program (TFAP)</h4>
+                <h4 class="course-modalhead ms-2">Certificate in Spoken English (CSE)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -344,17 +344,17 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Fundamental of Accounting</p></div>
+                                <div class="col-md-9 col-8"><p>Spoken English</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Service Organization in Tally Prime</p></div>
-                                <div class="col-md-3 col-4"><p>Module 3:</p></div>
+                                <div class="col-md-9 col-8"><p>Personality Development</p></div>
+                                <!-- <div class="col-md-3 col-4"><p>Module 3:</p></div>
                                 <div class="col-md-9 col-8"><p>Trading Organization in Tally Prime</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
                                 <div class="col-md-9 col-8"><p>Manufacturing Organization in Tally Prime</p></div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
                                 <div class="col-md-9 col-8"><p>Payroll Management</p></div>
                                 <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Goods and Service Tax (GST)</p></div>
+                                <div class="col-md-9 col-8"><p>Goods and Service Tax (GST)</p></div> -->
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -368,11 +368,11 @@
                             <ul class="course-modal-list pb-4">
                                 <li>
                                     <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
-                                    <span>06 Months</span>
+                                    <span>3&6 Months</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
-                                    <span>7,000/-</span>
+                                    <span>4,500/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -394,7 +394,7 @@
             <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Diploma in Business Administration and Accounting (DBAA)</h4>
+                <h4 class="course-modalhead ms-2">Certificate in English/Hindi Typing (CE&HT)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -408,17 +408,16 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Computer Application</p></div>
+                                <div class="col-md-9 col-8"><p>Finger Key Practice</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Business Economics</p></div>
+                                <div class="col-md-9 col-8"><p>Word Speed</p></div>
                                 <div class="col-md-3 col-4"><p>Module 3:</p></div>
-                                <div class="col-md-9 col-8"><p>Business Statistics and Company Law</p></div>
+                                <div class="col-md-9 col-8"><p>Paragraph Practice</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
-                                <div class="col-md-9 col-8"><p>Accounting Applications (Tally Prime, Busy)</p></div>
+                                <div class="col-md-9 col-8"><p>Typing Speed on Computer </p></div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
-                                <div class="col-md-9 col-8"><p>Human Resource Management Program</p></div>
-                                <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Indian Taxation Program</p></div>
+                                <div class="col-md-9 col-8"><p>Keyboard up to 40 words per minute</p></div>
+                               
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -432,11 +431,11 @@
                             <ul class="course-modal-list pb-4">
                                 <li>
                                     <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
-                                    <span>12 Months</span>
+                                    <span>1 Months</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
-                                    <span>16,000/-</span>
+                                    <span>1,800/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -458,7 +457,7 @@
             <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Diploma in Financial Accounting Program (DFAP)</h4>
+                <h4 class="course-modalhead ms-2">Certificate in Payroll Management (CPM)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -472,17 +471,31 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Accounting Principles</p></div>
+                                <div class="col-md-9 col-8"><p>Introduction,Employee Detail</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Indian Financial System</p></div>
+                                <div class="col-md-9 col-8"><p>Categorization of Employees</p></div>
                                 <div class="col-md-3 col-4"><p>Module 3:</p></div>
-                                <div class="col-md-9 col-8"><p>Indian Banking System</p></div>
+                                <div class="col-md-9 col-8"><p>Salary Calculation</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
-                                <div class="col-md-9 col-8"><p>Commercial & Industrial Law</p></div>
+                                <div class="col-md-9 col-8"><p>Generation of Pay Slip</p></div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
-                                <div class="col-md-9 col-8"><p>Accounting with Tally Prime</p></div>
+                                <div class="col-md-9 col-8"><p>Pay Sheet</p></div>
                                 <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Taxation</p></div>
+                                <div class="col-md-9 col-8"><p>Registers</p></div>
+                                <div class="col-md-3 col-4"><p>Module 7:</p></div>
+                                <div class="col-md-9 col-8"><p>Salary increments</p></div>
+                                <div class="col-md-3 col-4"><p>Module 8:</p></div>
+                                <div class="col-md-9 col-8"><p>Employee Loans and Advance</p></div>
+                                <div class="col-md-3 col-4"><p>Module 9:</p></div>
+                                <div class="col-md-9 col-8"><p>Recording of Employee Attendance</p></div>
+                                <div class="col-md-3 col-4"><p>Module 10:</p></div>
+                                <div class="col-md-9 col-8"><p>Attendance Sheet</p></div>
+                                <div class="col-md-3 col-4"><p>Module 11:</p></div>
+                                <div class="col-md-9 col-8"><p>Insurance Scheme</p></div>
+                                <div class="col-md-3 col-4"><p>Module 12:</p></div>
+                                <div class="col-md-9 col-8"><p>Gratuity and Professional Tax</p></div>
+                                <div class="col-md-3 col-4"><p>Module 13:</p></div>
+                                <div class="col-md-9 col-8"><p>and Report Generation</p></div>
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -495,12 +508,12 @@
                         <div class="col-md-8 text-start">
                             <ul class="course-modal-list pb-4">
                                 <li>
-                                    <img src="assets/img/Courses/icon 06.png" class="course-modal-img me-1">
-                                    <span>06 Months</span>
+                                    <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
+                                    <span>1 Months</span>
                                 </li>
                                 <li>
-                                    <img src="assets/img/Courses/icon 06.png" class="course-modal-img me-1">
-                                    <span>8,000/-</span>
+                                    <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
+                                    <span>2,500/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -522,7 +535,7 @@
             <div class="modal-content course-modal">
             <div class="modal-header course-modal-header m-3">
                 <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
-                <h4 class="course-modalhead ms-2">Advance Diploma in Financial Accounting Program (ADFAP)</h4>
+                <h4 class="course-modalhead ms-2">Advance Certificate in Professional Financial Accounting & E-Taxation (ACPFAe-T)</h4>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
@@ -536,17 +549,25 @@
                                 <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
                                 <hr>
                                 <div class="col-md-3 col-4"><p>Module 1:</p></div>
-                                <div class="col-md-9 col-8"><p>Fundamentals of Accounting</p></div>
+                                <div class="col-md-9 col-8"><p>Basic of Computer</p></div>
                                 <div class="col-md-3 col-4"><p>Module 2:</p></div>
-                                <div class="col-md-9 col-8"><p>Account Management with Tally Prime</p></div>
+                                <div class="col-md-9 col-8"><p>Course on Computer Concepts</p></div>
                                 <div class="col-md-3 col-4"><p>Module 3:</p></div>
-                                <div class="col-md-9 col-8"><p>Indian Financial System</p></div>
+                                <div class="col-md-9 col-8"><p>Basic of Accounting</p></div>
                                 <div class="col-md-3 col-4"><p>Module 4:</p></div>
-                                <div class="col-md-9 col-8"><p>Accounting and Audit Practice</p></div>
+                                <div class="col-md-9 col-8"><p>Learning TallyPrime(Basic to Advance Level)</p></div>
                                 <div class="col-md-3 col-4"><p>Module 5:</p></div>
-                                <div class="col-md-9 col-8"><p>Financial Risk Management</p></div>
+                                <div class="col-md-9 col-8"><p>Payroll</p></div>
                                 <div class="col-md-3 col-4"><p>Module 6:</p></div>
-                                <div class="col-md-9 col-8"><p>Management Skills</p></div>
+                                <div class="col-md-9 col-8"><p>Fundamental of Taxation(GST & TDS)</p></div>
+                                <div class="col-md-3 col-4"><p>Module 7:</p></div>
+                                <div class="col-md-9 col-8"><p>E-Taxation by Expert</p></div>
+                                <div class="col-md-3 col-4"><p>Module 8:</p></div>
+                                <div class="col-md-9 col-8"><p>Advance Excel</p></div>
+                                <div class="col-md-3 col-4"><p>Module 9:</p></div>
+                                <div class="col-md-9 col-8"><p>Sales Management</p></div>
+                                <div class="col-md-3 col-4"><p>Module 10:</p></div>
+                                <div class="col-md-9 col-8"><p>Personality Development</p></div>
                             </div>
                         </div>
                         <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
@@ -564,7 +585,322 @@
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
-                                    <span>14,000/-</span>
+                                    <span>20,500/-</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
+                                    <span>English</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="registration.html" class="course-modal-button">Register Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="exampleModal_9" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog course-modal-dialog modal-lg">
+            <div class="modal-content course-modal">
+            <div class="modal-header course-modal-header m-3">
+                <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
+                <h4 class="course-modalhead ms-2">IFAP Certified Professional Accountant (ICPA)</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="card card-modal">
+                <div class="card-head">
+                    <div class="row pt-3 ps-3">
+                        <div class="col-sm-8 col-md-8 col-8 g-fold">
+                            <div class="row  card-p">
+                                <div class="col-md-3 col-4"><b><p>MODULE</p></b></div>
+                                <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
+                                <hr>
+                                <div class="col-md-3 col-4"><p>Module 1:</p></div>
+                                <div class="col-md-9 col-8"><p>Basic of Computer</p></div>
+                                <div class="col-md-3 col-4"><p>Module 2:</p></div>
+                                <div class="col-md-9 col-8"><p>Basic of Accounting</p></div>
+                                <div class="col-md-3 col-4"><p>Module 3:</p></div>
+                                <div class="col-md-9 col-8"><p>Learning TallyPrime(Basic to Advance Level)</p></div>
+                                <div class="col-md-3 col-4"><p>Module 4:</p></div>
+                                <div class="col-md-9 col-8"><p>Payroll</p></div>
+                                <div class="col-md-3 col-4"><p>Module 5:</p></div>
+                                <div class="col-md-9 col-8"><p>Fundamental of Taxation(GST & TDS)</p></div>
+                                <div class="col-md-3 col-4"><p>Module 6:</p></div>
+                                <div class="col-md-9 col-8"><p>E-Taxation by Expert</p></div>
+                                <div class="col-md-3 col-4"><p>Module 7:</p></div>
+                                <div class="col-md-9 col-8"><p>Advance Excel</p></div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
+                            <img src="assets/img/courses-img/07.png" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer course-modal-body">
+                    <div class="row">
+                        <div class="col-md-8 text-start">
+                            <ul class="course-modal-list pb-4">
+                                <li>
+                                    <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
+                                    <span>8 Months</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
+                                    <span>17,500/-</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
+                                    <span>English</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="registration.html" class="course-modal-button">Register Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="exampleModal_10" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog course-modal-dialog modal-lg">
+            <div class="modal-content course-modal">
+            <div class="modal-header course-modal-header m-3">
+                <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
+                <h4 class="course-modalhead ms-2">Certificate in TallyPrime with E-Taxation  (CTPe-T)</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="card card-modal">
+                <div class="card-head">
+                    <div class="row pt-3 ps-3">
+                        <div class="col-sm-8 col-md-8 col-8 g-fold">
+                            <div class="row  card-p">
+                                <div class="col-md-3 col-4"><b><p>MODULE</p></b></div>
+                                <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
+                                <hr>
+                                <div class="col-md-3 col-4"><p>Module 1:</p></div>
+                                <div class="col-md-9 col-8"><p> Basic of Accounting </p></div>
+                                <div class="col-md-3 col-4"><p>Module 2:</p></div>
+                                <div class="col-md-9 col-8"><p>Learning TallyPrime(Basic to Advance Level)</p></div>
+                                <div class="col-md-3 col-4"><p>Module 3:</p></div>
+                                <div class="col-md-9 col-8"><p>Payroll  </p></div>
+                                <div class="col-md-3 col-4"><p>Module 4:</p></div>
+                                <div class="col-md-9 col-8"><p>Fundamental of Taxation(GST & TDS)</p></div>
+                                <div class="col-md-3 col-4"><p>Module 5:</p></div>
+                                <div class="col-md-9 col-8"><p>E-Taxation by Expert</p></div>
+                              
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
+                            <img src="assets/img/courses-img/07.png" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer course-modal-body">
+                    <div class="row">
+                        <div class="col-md-8 text-start">
+                            <ul class="course-modal-list pb-4">
+                                <li>
+                                    <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
+                                    <span>06 Months</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
+                                    <span>14,500/-</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
+                                    <span>English</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="registration.html" class="course-modal-button">Register Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="exampleModal_11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog course-modal-dialog modal-lg">
+            <div class="modal-content course-modal">
+            <div class="modal-header course-modal-header m-3">
+                <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
+                <h4 class="course-modalhead ms-2">IFAP Certified Professional Accountant (CFAP&T)</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="card card-modal">
+                <div class="card-head">
+                    <div class="row pt-3 ps-3">
+                        <div class="col-sm-8 col-md-8 col-8 g-fold">
+                            <div class="row  card-p">
+                                <div class="col-md-3 col-4"><b><p>MODULE</p></b></div>
+                                <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
+                                <hr>
+                                <div class="col-md-3 col-4"><p>Module 1:</p></div>
+                                <div class="col-md-9 col-8"><p> Basic of Accounting </p></div>
+                                <div class="col-md-3 col-4"><p>Module 2:</p></div>
+                                <div class="col-md-9 col-8"><p>Learning TallyPrime(Basic to Advance Level)</p></div>
+                                <div class="col-md-3 col-4"><p>Module 3:</p></div>
+                                <div class="col-md-9 col-8"><p>Payroll</p></div>
+                                <div class="col-md-3 col-4"><p>Module 4:</p></div>
+                                <div class="col-md-9 col-8"><p>Fundamental of Taxation(GST & TDS)</p></div>
+                                
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
+                            <img src="assets/img/courses-img/07.png" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer course-modal-body">
+                    <div class="row">
+                        <div class="col-md-8 text-start">
+                            <ul class="course-modal-list pb-4">
+                                <li>
+                                    <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
+                                    <span>06 Months</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
+                                    <span>12,500/-</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
+                                    <span>English</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="registration.html" class="course-modal-button">Register Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="exampleModal_12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog course-modal-dialog modal-lg">
+            <div class="modal-content course-modal">
+            <div class="modal-header course-modal-header m-3">
+                <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
+                <h4 class="course-modalhead ms-2">Certificate Program in Tally with GST (CPT)</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="card card-modal">
+                <div class="card-head">
+                    <div class="row pt-3 ps-3">
+                        <div class="col-sm-8 col-md-8 col-8 g-fold">
+                            <div class="row  card-p">
+                                <div class="col-md-3 col-4"><b><p>MODULE</p></b></div>
+                                <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
+                                <hr>
+                                <div class="col-md-3 col-4"><p>Module 1:</p></div>
+                                <div class="col-md-9 col-8"><p> Basic of Accounting</p></div>
+                                <div class="col-md-3 col-4"><p>Module 2:</p></div> 
+                                <div class="col-md-9 col-8"><p>Learning TallyPrime(Basic to Advance Level)</p></div>
+                                <div class="col-md-3 col-4"><p>Module 3:</p></div>
+                                <div class="col-md-9 col-8"><p>Fundamental of Taxation(GST & TDS)</p></div>
+                               
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
+                            <img src="assets/img/courses-img/07.png" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer course-modal-body">
+                    <div class="row">
+                        <div class="col-md-8 text-start">
+                            <ul class="course-modal-list pb-4">
+                                <li>
+                                    <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
+                                    <span>3 Months</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
+                                    <span>5,500/-</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
+                                    <span>English</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="registration.html" class="course-modal-button">Register Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="exampleModal_13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog course-modal-dialog modal-lg">
+            <div class="modal-content course-modal">
+            <div class="modal-header course-modal-header m-3">
+                <img src="assets/img/Courses/Icon 04.png" class="course-modalhead-img">
+                <h4 class="course-modalhead ms-2">IFAP Certified GST Master (ICGM)</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="card card-modal">
+                <div class="card-head">
+                    <div class="row pt-3 ps-3">
+                        <div class="col-sm-8 col-md-8 col-8 g-fold">
+                            <div class="row  card-p">
+                                <div class="col-md-3 col-4"><b><p>MODULE</p></b></div>
+                                <div class="col-md-9 col-8"><b><p>CHAPTER NAME</p></b></div>
+                                <hr>
+                                <div class="col-md-3 col-4"><p>Module 1:</p></div>
+                                <div class="col-md-9 col-8"><p>Master the Element of Indian Taxation</p></div>
+                                <div class="col-md-3 col-4"><p>Module 2:</p></div>
+                                <div class="col-md-9 col-8"><p>e-Filling and e-Return to Familiarize Students with the Tax System in India  </p></div>
+                                <div class="col-md-3 col-4"><p>Module 3:</p></div>
+                                <div class="col-md-9 col-8"><p>INDIRECT Tax: </p></div>
+                                <div class="col-md-3 col-4"><p>Module 4:</p></div>
+                                <div class="col-md-9 col-8"><p>GST e-Return </p></div>
+                                <div class="col-md-3 col-4"><p>Module 5:</p></div>
+                                <div class="col-md-9 col-8"><p>e-Filing </p></div>
+                                <div class="col-md-3 col-4"><p>Module 6:</p></div>
+                                <div class="col-md-9 col-8"><p>e-Challan Forms</p></div>
+                                <div class="col-md-3 col-4"><p>Module 7:</p></div>
+                                <div class="col-md-9 col-8"><p>Generate e-Way Bill</p></div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-4 col-4 mt-auto g-fold1">
+                            <img src="assets/img/courses-img/07.png" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer course-modal-body">
+                    <div class="row">
+                        <div class="col-md-8 text-start">
+                            <ul class="course-modal-list pb-4">
+                                <li>
+                                    <img src="assets/img/Courses/icon 02.png" class="course-modal-img me-1">
+                                    <span>1 Months</span>
+                                </li>
+                                <li>
+                                    <img src="assets/img/Courses/icon 01.png" class="course-modal-img me-1">
+                                    <span>3,500/-</span>
                                 </li>
                                 <li>
                                     <img src="assets/img/Courses/icon 03.png" class="course-modal-img me-1">
@@ -586,7 +922,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-4">
-                    <h6 class="left">Welcome to Empower Educare </h6>
+                    <!-- <h6 class="left">Welcome to Empower Educare </h6> -->
+                    <p class="left">Welcome to Empower Educare</p>
                     <!-- <div class="top-logo">
                         <img src="assets/img/Logo/logo-1.png" width="200" alt="logo" class="img-fluid">
                     </div> -->
@@ -756,7 +1093,7 @@
                     <li class="nav-item dropdown menu"><a href="#!" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"> Courses</a>
                         <ul class="dropdown-menu mainUl courseUl">
                             <div class="row">
-                                <div class="col-lg-2">
+                                <div class="col-lg-2 ">
                                     <li>
                                         <a class="dropdown-item pe-0" href="#">
                                             <div class="n-img courseImg">
@@ -815,7 +1152,7 @@
                                     <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="middle">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_5">
                                                     <p class="p-title">Certificate in Spoken English (CSE)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong>3&6 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 4,500/-</span></p>
@@ -826,7 +1163,7 @@
                                      <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="middle">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_6">
                                                     <p class="p-title">Certificate in English/Hindi Typing (CE&HT)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong>1 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 1,800/-</span></p>
@@ -837,7 +1174,7 @@
                                       <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="middle">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_4">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_7">
                                                     <p class="p-title">certificate in Payroll Management (CPM)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong>3&6 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 4,500/-</span></p>
@@ -862,7 +1199,7 @@
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
                                                 <h4>ACCOUNTING PROGRAM</h4>
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_5">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_8">
                                                     <p class="p-title">Advance Certificate in Professional Financial Accounting & E-Taxation(ACPFAe-T)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 12 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 20,500/-</span>
@@ -874,7 +1211,7 @@
                                     <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_6">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_9">
                                                     <p class="p-title">IFAP Certified Professional Accountant (ICPA)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 8 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 17,500/-</span>
@@ -886,7 +1223,7 @@
                                     <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_7">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_10">
                                                     <p class="p-title">Certificate in TallyPrime with E-Taxation (CTPe-T)</p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 6 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 14,500/-</span>
@@ -898,7 +1235,7 @@
                                     <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_8">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_11">
                                                     <p class="p-title">IFAP Certified Professional Accountant (CFAP&T) </p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 6 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 12,500/-</span>
@@ -910,7 +1247,7 @@
                                      <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_8">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_12">
                                                     <p class="p-title"> Certificate Program in Tally with GST (CPT) </p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 3 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 5,500/-</span>
@@ -922,7 +1259,7 @@
                                      <li>
                                         <a class="dropdown-item p-0" href="#">
                                             <div class="right">
-                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_8">
+                                                <div class="n-box" data-bs-toggle="modal" data-bs-target="#exampleModal_13">
                                                     <p class="p-title"> IFAP Certified GST Master (ICGM) </p>
                                                     <p><span><i class="fa fa-hourglass-half" aria-hidden="true"></i><strong> Duration: </strong> 1 months</span> 
                                                         <span><i class="fa fa-clock" aria-hidden="true"></i><strong> Fees: </strong> 3,500/-</span>
@@ -968,7 +1305,7 @@
                     <div class="contact-info d-flex d-block d-lg-none d-md-none">
                     <p> <i class="fa fa-envelope"></i> <span>info@certiportacademy.com</span></p>
                         <p> <i class="fa fa-phone"></i> <span> 09818447820</span>   </p>
-                    <!-- <span class="free-quote d-none d-md-inline-block">Free Quote</span> -->
+                    <span class="free-quote d-none d-md-inline-block">Free Quote</span>
                 </div>
 
                 </ul>
